@@ -1,0 +1,14 @@
+{
+  "name": "GitList",
+  "description": "An elegant and modern git repository viewer",
+  "keywords": [
+    "git",
+    "gitlist",
+    "repositories"
+  ],
+  "website": "https://gitlist.org,
+  "repository": "https://github.com/hubiogit/GitList-for-Heroku",
+  "logo": "https://raw.githubusercontent.com/klaussilveira/gitlist/master/logo/horizontal.png",
+    }
+  }
+}
